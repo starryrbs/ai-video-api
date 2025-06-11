@@ -112,5 +112,5 @@ AI视频生成API不仅是一个工具，更是开启创意新世界的钥匙。
 
 ---
 
-*注：本文由 AI 视频生成 API 团队提供，欢迎访问我们的 GitHub 仓库获取更多信息。* 
+*注：本文由 AI 视频生成 API 团队提供，欢迎访问我们的 [GitHub 仓库](https://github.com/starryrbs/ai-video-api)获取更多信息。* 
 
